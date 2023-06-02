@@ -1,1 +1,3 @@
 # introduction
+
+![](logo-crbioacademy.png)
